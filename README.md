@@ -12,7 +12,7 @@ Content Types: We verify the content type of responses to ensure they match the 
 **2.Test Cases: **
 
 | API | Test Case Name | Clear Steps | Expected Result | Validation Method |
-| --- | --- | :---: |--- |--- |
+| --- | --- | ---------------------------------------------------------------------------------- |--- |--- |
 | PoetryDB|  Get a Random Poem |1.  Import the requests library. 
                                 2.  Set the base URL for the PoetryDB [Lien http Poetry API](API: https://poetrydb.org/api).
                                 3.  Send a GET request to the /random endpoint.
