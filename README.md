@@ -19,5 +19,5 @@ Content Types: We verify the content type of responses to ensure they match the 
                                 4.  Extract the status code from the response.
                                 5.  Assert that the status code is 200 (OK).
                                 6.  Parse the JSON response to extract poem details (author, title, lines, etc.).
-                                7.  Validate that the response contains at least one poem.
+                                7.  Validate that the response contains at least one poem. |
 | Cat Facts|  |
