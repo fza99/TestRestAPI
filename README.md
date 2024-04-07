@@ -13,5 +13,11 @@ Content Types: We verify the content type of responses to ensure they match the 
 
 | API | Test Case Name | Clear Steps | Expected Result | Validation Method |
 | --- | --- | --- |--- |--- |
-| PoetryDB|  |
+| PoetryDB|  Get a Random Poem |1.Import the requests library. 
+                                2.Set the base URL for the PoetryDB API: https://poetrydb.org/api.
+                                3.Send a GET request to the /random endpoint.
+                                4.Extract the status code from the response.
+                                5.Assert that the status code is 200 (OK).
+                                6.Parse the JSON response to extract poem details (author, title, lines, etc.).
+                                7.Validate that the response contains at least one poem.  Status code: 200 (OK).JSON response containing a random poem with author, title, lines, and other relevant fields. | Assert statements to verify the expected status code and the presence of at least one poem in the response.
 | Cat Facts|  |
