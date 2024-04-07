@@ -1,8 +1,8 @@
 # 1.Rest API TEST
 
 ## REST API Test Cases
-This repository contains test cases for two popular REST APIs: [Lien http PoetryDB](https://github.com/thundercomb/poetrydb#readme) and 
- [Lien http Cat Facts](https://github.com/alexwohlbruck/cat-facts). The test cases are written in Python using the requests library for making API requests and assertions for validating responses.
+This repository contains test cases for two popular REST APIs: [PoetryDB](https://github.com/thundercomb/poetrydb#readme) and 
+ [Cat Facts](https://github.com/alexwohlbruck/cat-facts). The test cases are written in Python using the requests library for making API requests and assertions for validating responses.
 
 ## Validation Approach:
 
