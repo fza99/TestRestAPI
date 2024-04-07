@@ -10,7 +10,7 @@ HTTP Status Codes: We primarily use HTTP status codes to validate the overall su
 Response Data Structure: For successful responses (2xx), we validate the expected structure of the response data using assertions on key data fields.
 Content Types: We verify the content type of responses to ensure they match the expected format (e.g., JSON).
 
-# 2.Test Cases:
+## Test Cases:
 
 | API | Test Case Name | Clear Steps | Expected Result | Validation Method |
 | --- | --- | ---------------------------------------------------------------------------------- |--- |--- |
