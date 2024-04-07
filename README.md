@@ -10,3 +10,8 @@ Response Data Structure: For successful responses (2xx), we validate the expecte
 Content Types: We verify the content type of responses to ensure they match the expected format (e.g., JSON).
 
 **2.Test Cases: **
+
+| API | Test Case Name | Clear Steps | Expected Result | Validation Method |
+| --- | --- | --- |--- |--- |
+| PoetryDB|  |
+| Cat Facts|  |
